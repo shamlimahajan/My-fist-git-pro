@@ -8,4 +8,4 @@
     <h1> Welcome to my first project</h1>
   </body>
 </Html>
-author Shamli
+author Shamli Thaoakr
